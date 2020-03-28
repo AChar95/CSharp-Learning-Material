@@ -1,0 +1,13 @@
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+D:\Documents\Github\CSharp-Learning-Material\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
