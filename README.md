@@ -7,3 +7,5 @@ It should be looked at in the following order:
 2. Variables
 3. Type Conversion
 4. Operators
+5. Classes
+6. 
